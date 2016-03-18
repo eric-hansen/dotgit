@@ -3,6 +3,7 @@
 	email = echansen@nabancard.com
 [core]
 	excludesfile = /Users/echansen/.gitignore_global
+	editor = nano
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
