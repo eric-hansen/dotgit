@@ -5,3 +5,14 @@ tags
 .projectile
 .ac-php-conf.json
 #.*#
+*#
+.#*
+ac-comphist.dat
+atlassian-ide-plugin.*
+.tern*
+.vscode*
+*.swp*
+*.css
+GPATH
+GRTAGS
+GTAGS
